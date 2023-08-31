@@ -1,0 +1,11 @@
+.todoActionsContainer {
+    display: flex;
+    justify-content: center;
+
+    padding: 12px 12px 24px 12px;
+}
+
+.resetTodosIcon,
+.deleteCompletedTodosIcon {
+    font-size: 20px;
+}

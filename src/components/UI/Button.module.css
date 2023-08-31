@@ -1,0 +1,16 @@
+.button {
+    cursor: pointer;
+    background-color: beige;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+.button:last-child {
+    margin-left: 20px;
+}
+
+.button:hover {
+    background-color: rgb(240, 240, 155);
+}
+
